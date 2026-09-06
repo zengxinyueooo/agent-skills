@@ -1,0 +1,7 @@
+# 个人真实经历数据永远不入库
+workspace/
+star-bank-local/
+*.local.md
+
+.DS_Store
+Thumbs.db
