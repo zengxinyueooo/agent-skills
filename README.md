@@ -21,11 +21,11 @@ skill 不该是一堆孤岛。下面三层互相有数据流动:session → star
 | Skill | 一句话 | 出身 |
 |---|---|---|
 | [agent-session-handoff](agent-session-handoff/) | 把 Coding Agent 会话压缩成可迁移的 handoff 文档 | AgentRecall 研究 / ThoughtCoding 上下文压缩 |
+| [companion-memory-eval](companion-memory-eval/) | 陪伴型 AI 的记忆质量评测:五维度 + 错因分类 | Love & Secret |
+| [repo-onboarding](repo-onboarding/) | 仓库 → 带来源标注的结构化 onboarding 报告 | 日常读开源 |
+| [issue-pr-triage](issue-pr-triage/) | Issue → 难度定位 + 查重 + 实现计划 | multica 开源参与 |
+| [xhs-digest](xhs-digest/) | 收藏夹消化器:提炼去重,收敛成 checklist(utility) | 个人知识管理 |
 | content-pipeline | 带人工门禁的内容生产 SOP(7 个子技能 + 可插拔领域包) | Creator Ops Studio(移植中) |
-| companion-memory-eval | 陪伴型 AI 的记忆质量评测(事实/情节/人设/时效/过度召回) | Love & Secret(规划中) |
-| repo-onboarding | 仓库 → 带来源标注的结构化 onboarding 报告 | 日常读开源(规划中) |
-| issue-pr-triage | Issue → 难度定位 + 实现计划 + 查重 | multica 开源参与(规划中) |
-| xhs-digest | 收藏夹消化器:抓取提炼去重,收敛成 checklist(utility) | 个人知识管理(规划中) |
 
 ### 底座
 
