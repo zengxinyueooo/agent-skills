@@ -7,8 +7,6 @@ description: 把进行中的 Coding Agent 会话(Claude Code / Codex / ThoughtCo
 
 把一个正在进行的 coding session 压缩成下一个人(或下一个 Agent)能直接接手的 artifact。
 
-出身:来自我对 AI Agent 会话持久化的研究([AgentRecall](https://github.com/zszz3/AgentRecall) 相关工作)与自研 [ThoughtCoding](https://github.com/zengxinyueooo/ThoughtCoding) 的四层上下文压缩管线——前者是"事后找回来",这个 skill 是"主动交出去"。
-
 ## 为什么需要
 
 Context 压缩、跨 Agent 迁移、第二天继续,都会丢三类东西:为什么这么做(决策理由)、试过什么没成(失败尝试)、现在停在哪(精确状态)。通用摘要会美化这些,handoff 文档把它们当作一等公民。

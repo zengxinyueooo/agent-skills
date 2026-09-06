@@ -7,8 +7,6 @@ description: 评测陪伴型 AI 的记忆质量——事实召回、情节召回
 
 不是"为了做评测而评测":陪伴型 AI 的核心资产是记忆,但"它记得我吗"从来没人量过。这个 skill 把它变成一份可复跑的报告。
 
-出身:从 [Love & Secret](https://github.com/zengxinyueooo/love-and-secret)(多模型 AI 陪伴应用)的对话与记忆层沉淀而来。
-
 ## Start Gate
 
 同时满足才开工:

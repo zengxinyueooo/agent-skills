@@ -17,8 +17,8 @@ description: 维护个人 STAR 经历故事库——简历 bullet、面试答案
 star-bank-local/
 ├── index.md              # 索引:一段一行,id / tags / 一句话 / 证据数
 └── experiences/
-    ├── 2025-10-meituan-agent-pipeline.md
-    ├── 2026-03-thoughtcoding-skill-system.md
+    ├── 2025-10-<公司缩写>-<项目-slug>.md
+    ├── 2026-03-<项目-slug>.md
     └── ...
 ```
 

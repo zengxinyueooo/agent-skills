@@ -5,9 +5,7 @@ description: 输入一个 GitHub issue,产出可执行的实现计划——问�
 
 # Issue / PR Triage
 
-把一个 issue 变成一份能直接动手的计划,服务开源贡献的第一公里。
-
-出身:给 [multica-ai/multica](https://github.com/multica-ai/multica/pull/7837) 提第一个 PR 前的流程固化。开源贡献最难的不是写代码,是"这个 issue 值不值得我碰、从哪个文件下手"。
+把一个 issue 变成一份能直接动手的计划,服务开源贡献的第一公里——最难的不是写代码,是"这个 issue 值不值得我碰、从哪个文件下手"。
 
 ## Start Gate
 

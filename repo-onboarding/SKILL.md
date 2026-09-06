@@ -7,7 +7,7 @@ description: 输入一个代码仓库,产出带来源标注的结构化 onboardi
 
 输入一个仓库,输出一份下次还能接着用的结构化报告。
 
-出身:我研究 [AgentRecall](https://github.com/zszz3/AgentRecall) 等开源项目时每天在做的流程固化。同类工具的产出常常是"README 复读机"——这个 skill 的生命线是一条铁律:**每个结论标注来源文件路径,没读到代码就明说**。
+同类工具的产出常常是"README 复读机"——这个 skill 的生命线是一条铁律:**每个结论标注来源文件路径,没读到代码就明说**。
 
 ## Start Gate
 
