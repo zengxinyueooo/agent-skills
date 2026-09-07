@@ -35,7 +35,7 @@
 | [issue-pr-triage](issue-pr-triage/) | Issue → 难度定位 + 查重 + 实现计划(需 gh CLI) |
 | [companion-memory-eval](companion-memory-eval/) | 陪伴型 AI 记忆质量评测:五维度 + 错因分类 |
 | [xhs-digest](xhs-digest/) | 收藏夹消化器:提炼去重,收敛成 checklist(utility) |
-| content-pipeline | 带人工门禁的内容生产 SOP(7 个子技能 + 可插拔领域包)· 移植中 |
+| [content-pipeline](content-pipeline/) | 带人工门禁的内容生产 SOP:7 个子技能 + 可插拔领域包 |
 
 ## 依赖与降级
 
